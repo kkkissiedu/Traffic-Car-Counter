@@ -6,13 +6,6 @@ This project implements a real-time computer vision pipeline for **vehicle detec
 
 ---
 
-## 🎥 Live Demonstration
-```markdown
-![Demo](path/to/your/demo.gif)
-```
-
----
-
 ## 🔑 Key Features
 
 - ⚡ **Real-Time Object Detection**  
@@ -30,6 +23,12 @@ This project implements a real-time computer vision pipeline for **vehicle detec
 - 🧾 **Multi-Class Counting**  
   Maintains separate counts for each vehicle class, enabling more detailed traffic analysis.
 
+---
+
+---
+
+## Demonstration
+![GIF](output_cars.gif)
 ---
 
 ## 🧰 Tech Stack & Implementation
